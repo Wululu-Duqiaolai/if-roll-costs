@@ -1,0 +1,12 @@
+metric,description,unit,paper_value,recomputed,matches
+intervals,评价期相邻开盘持有区间,个,1211,1211.0,True
+month_turnover,每日调仓时按月移仓的年化成交额,倍权益,24.17,24.174310907107525,True
+quarter_turnover,每日调仓时按季移仓的年化成交额,倍权益,10.19,10.193205126899745,True
+weekly_saving,按月移仓时每周较每日调仓节费,年化基点,0.88,0.8840129401839718,True
+quarter_saving,每日调仓时按季较按月移仓节费,年化基点,16.46,16.456618446899395,True
+rolling_threshold,30日滚动信号下的远月成本平衡点,跳,7.28,7.282045406406982,True
+regression_threshold,多尺度回归信号下的远月成本平衡点,跳,4.07,4.07156780000356,True
+wealth_difference,每日调仓组季月减月度期末财富,万元,196.77,196.76983422600478,True
+basis_difference,持有期基差变化的贡献,万元,132.23,132.23459999999767,True
+fee_difference,累计费用节约的贡献,万元,64.55,64.55383422599999,True
+qlike_difference,多尺度回归相对30日滚动法的平均QLIKE差,损失单位,-0.0641,-0.0640989102383084,True
